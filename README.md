@@ -21,7 +21,7 @@ I'm a self-taught passionate Frontend Developer from Belarus
 ------------------
 ### About Me
 * 🌍  I'm ready for relocation
-* ✉️  You can contact me at [masha.oath@gmail.com](mailto:masha.oath@gmail.com)
+* ✉️  You can contact me at [Email](mailto:masha.oath@gmail.com) or [Telegram](https://t.me/remorse666) 
 * 🧠  I'm сurrently learning Angular
 * ❤️  I'm like writing TypeScript
 * 🤝  I'm open to collaborating on interesting projects
