@@ -50,7 +50,7 @@ I'm a self-taught passionate Frontend Developer from Belarus
 
 <div align="center">
   
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
