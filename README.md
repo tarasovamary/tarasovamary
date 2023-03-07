@@ -48,6 +48,12 @@ I'm a self-taught passionate Frontend Developer from Belarus
 ### Last projects
 -->
 
+<div align="center">
+  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
 <!--
 **tarasovamary/tarasovamary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
