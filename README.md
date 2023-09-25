@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif?cid=ecf05e47r817rvlz3dgemgv9ryy7zt63qlz0t8x7b2h7nw8n&rid=giphy.gif&ct=s" width="150"/>
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/maryia-kryvitskaya-26951223b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://discord.com/users/rozovyi_poni">
     <img src="https://img.shields.io/badge/Discord-navy?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="https://t.me/remorse666">
+  <a href="https://t.me/maryiakryvitskaya">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
